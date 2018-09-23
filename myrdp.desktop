@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=RDP Desktop
+Name[tr]=Uzak Masaüstü Bağlantısı
+Comment=Uzak Masaüstü Bağlantısı - RDP - Comment
+GenericName=Uzak Masaüstü Bağlantısı - RDP - Generic
+Exec=python3 /opt/myrdp/myrdp.py
+Icon=deepin-remote-assistance
+Terminal=true
+Type=Application
+Categories=System;
+StartupNotify=true
